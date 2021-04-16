@@ -3,7 +3,6 @@
     <a href="https://youtube.com/c/KiritoOfficial"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <a href="https://github.com/KiritoOfficial"><img alt="Github" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/></a>
     <br />
-    <img src="https://komarev.com/ghpvc/?username=KiritoOfficial&&style=flat&label=VISITANTES" align="center" />
 </p>
 
 <hr>
